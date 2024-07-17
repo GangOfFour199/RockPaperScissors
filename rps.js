@@ -1,6 +1,6 @@
 // Your JavaScript goes here!
 
-console.log("Hello Will");
+console.log("Hello World");
 
 
 
