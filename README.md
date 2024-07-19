@@ -25,11 +25,13 @@ This was the first project undertaken with the Odin Project utilising JavaScript
 ## MAIN SKILL DEVELOPMENTS
 
 - Brushed up on using arrays and how to randomise selection from an array.
-- 
+- Calling JavaScript functions in html elements.
+- Familairising myself with for loops and .inlcudes() operator.
+- Improving my CSS skils, particularly on layout.
 
 ## LINKS
 
-[Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
+[Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
 [Have a play yourself!](https://gangoffour199.github.io/Dashboard/)
 
