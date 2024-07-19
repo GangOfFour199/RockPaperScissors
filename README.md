@@ -7,13 +7,13 @@
 
 
 ## ABOUT
-This was the first project undertaken with the Odin Porject utilising JavaScript in the web development process. The purpose of this project was to create a rock, paper, scissors game contested between the computer and the user.
+This was the first project undertaken with the Odin Project utilising JavaScript in the web development process. The purpose of this project was to create a rock, paper, scissors game contested between the computer and the user. The prerequsites for this game to be a success included.
 
-- View all their projects displayed on the dashboard page.
-- Navigate the side bar to toggle through all the options available.
-- Be able to view their username and custom avatar.
-- Read any upcoming news/announcements.
-- See all the locations of this mock company.
+- Being played entirely within the console.
+- The match consisted of 5 games in which the winner of each game would be logged in the console.
+- After 5 games, there would be a declared winner and a subsequent message for the user if they drew, lost or won.
+- Permitted multiple inputs as long as the words typed matched the options.
+- The game can be reset and be played over.
 
 ## FEATURES
 
