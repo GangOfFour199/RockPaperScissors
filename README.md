@@ -1,6 +1,6 @@
 # RockPaperScissors
 
- # USER DASHBOARD
+# OVERVIEW
 
 ![](https://github.com/GangOfFour199/Dashboard/blob/main/SandinistaDashboard.png)
 
@@ -17,10 +17,10 @@ This was the first project undertaken with the Odin Project utilising JavaScript
 
 ## FEATURES
 
-- Expanding, clickable search bar that can display 6 results at a time.
-- Boxes which highlight a different colour when hovered over with the cursor.
-- Same applies to various linked text throughout the page as well as text shadow.
-- Icons expand in size when cursor hovers over.
+- Case sensitive inputs, as well as prompt refreshing if input is empty. Only validates an input that corresponds with the weapon choices.
+- Terminal provides message on each round winner.
+- Displays message for user depending on the result after 5 rounds.
+- 
 
 ## MAIN SKILL DEVELOPMENTS
 
