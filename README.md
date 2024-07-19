@@ -29,6 +29,7 @@ This was the first project undertaken with the Odin Project utilising JavaScript
 - Familairising myself with for loops and .inlcudes() operator.
 - Improving my CSS skils, particularly on layout.
 
+> Note: *Please ensure you have opened DevTools to access the console and play the game*.
 
 ## LINKS
 
