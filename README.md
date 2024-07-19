@@ -2,7 +2,7 @@
 
 # OVERVIEW
 
-![](https://github.com/GangOfFour199/Dashboard/blob/main/SandinistaDashboard.png)
+![](https://github.com/GangOfFour199/RockPaperScissors/blob/main/RPS.png)
 
 
 
@@ -28,6 +28,7 @@ This was the first project undertaken with the Odin Project utilising JavaScript
 - Calling JavaScript functions in html elements.
 - Familairising myself with for loops and .inlcudes() operator.
 - Improving my CSS skils, particularly on layout.
+
 
 ## LINKS
 
