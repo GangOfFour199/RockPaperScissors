@@ -33,6 +33,6 @@ This was the first project undertaken with the Odin Project utilising JavaScript
 
 [Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
-[Have a play yourself!](https://gangoffour199.github.io/Dashboard/)
+[Have a play yourself!](https://gangoffour199.github.io/RockPaperScissors/)
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
