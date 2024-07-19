@@ -20,10 +20,11 @@ This was the first project undertaken with the Odin Project utilising JavaScript
 - Case sensitive inputs, as well as prompt refreshing if input is empty. Only validates an input that corresponds with the weapon choices.
 - Terminal provides message on each round winner.
 - Displays message for user depending on the result after 5 rounds.
-- 
+- Contains a 'Start Game' button that initiates the JS to function and the game to begin.
 
 ## MAIN SKILL DEVELOPMENTS
 
+- Brushed up on using arrays and how to randomise selection from an array.
 - 
 
 ## LINKS
